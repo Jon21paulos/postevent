@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528714312069",
+    "project_id": "post-flutter-b6110",
+    "storage_bucket": "post-flutter-b6110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528714312069:android:22cc2a222cd52045657cec",
+        "android_client_info": {
+          "package_name": "com.jon21paulospostevent.postevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528714312069-u7sedqecvlvp693c2j3vjq6ev55t6t4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBspCl1hJN3Qf0UmvApVkbbyndt8AC19mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528714312069-u7sedqecvlvp693c2j3vjq6ev55t6t4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
